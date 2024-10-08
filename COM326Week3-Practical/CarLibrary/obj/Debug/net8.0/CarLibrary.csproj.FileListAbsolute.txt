@@ -1,0 +1,11 @@
+C:\Users\csf23inc\OneDrive - Ulster University\Computer Science\2024\Semester 1\Object Oriented Programming\COM326Week3-Practical\CarLibrary\bin\Debug\net8.0\CarLibrary.deps.json
+C:\Users\csf23inc\OneDrive - Ulster University\Computer Science\2024\Semester 1\Object Oriented Programming\COM326Week3-Practical\CarLibrary\bin\Debug\net8.0\CarLibrary.dll
+C:\Users\csf23inc\OneDrive - Ulster University\Computer Science\2024\Semester 1\Object Oriented Programming\COM326Week3-Practical\CarLibrary\bin\Debug\net8.0\CarLibrary.pdb
+C:\Users\csf23inc\OneDrive - Ulster University\Computer Science\2024\Semester 1\Object Oriented Programming\COM326Week3-Practical\CarLibrary\obj\Debug\net8.0\CarLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csf23inc\OneDrive - Ulster University\Computer Science\2024\Semester 1\Object Oriented Programming\COM326Week3-Practical\CarLibrary\obj\Debug\net8.0\CarLibrary.AssemblyInfoInputs.cache
+C:\Users\csf23inc\OneDrive - Ulster University\Computer Science\2024\Semester 1\Object Oriented Programming\COM326Week3-Practical\CarLibrary\obj\Debug\net8.0\CarLibrary.AssemblyInfo.cs
+C:\Users\csf23inc\OneDrive - Ulster University\Computer Science\2024\Semester 1\Object Oriented Programming\COM326Week3-Practical\CarLibrary\obj\Debug\net8.0\CarLibrary.csproj.CoreCompileInputs.cache
+C:\Users\csf23inc\OneDrive - Ulster University\Computer Science\2024\Semester 1\Object Oriented Programming\COM326Week3-Practical\CarLibrary\obj\Debug\net8.0\CarLibrary.dll
+C:\Users\csf23inc\OneDrive - Ulster University\Computer Science\2024\Semester 1\Object Oriented Programming\COM326Week3-Practical\CarLibrary\obj\Debug\net8.0\refint\CarLibrary.dll
+C:\Users\csf23inc\OneDrive - Ulster University\Computer Science\2024\Semester 1\Object Oriented Programming\COM326Week3-Practical\CarLibrary\obj\Debug\net8.0\CarLibrary.pdb
+C:\Users\csf23inc\OneDrive - Ulster University\Computer Science\2024\Semester 1\Object Oriented Programming\COM326Week3-Practical\CarLibrary\obj\Debug\net8.0\ref\CarLibrary.dll
